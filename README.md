@@ -15,4 +15,4 @@ Tiểu luận sẽ tìm hiểu về các kiến trúc mạng nơ-ron tích chậ
 - Minh họa cho bài toán nhận diện ảnh
 
 ## Mô tả dữ liệu bài toán minh họa
-Dữ liệu gồm hai tập là training set và validation set. Mỗi tập gồm có 3000 ảnh chia đều vào 3 phân lớp là chó (dog), mèo (cat), gấu trúc (panda). Nhóm sẽ thực hiện phân loại bằng mô hình CNN truyền thống, Inception-v3, và ResNet-50 để so sánh các kết quả
+Dữ liệu gồm hai tập là training set và validation set. Mỗi tập gồm có 3000 ảnh chia đều vào 3 phân lớp là chó (dog), mèo (cat), gấu trúc (panda). Nhóm sẽ thực hiện phân loại bằng mô hình Inception-v3 và ResNet-50 để so sánh các kết quả
